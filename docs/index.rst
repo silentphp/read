@@ -54,4 +54,6 @@ to help you create fantastic documentation for your project.
 
    intro/import-guide
 
+    contribute
+
 
